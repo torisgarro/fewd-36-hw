@@ -1,0 +1,37 @@
+<style>
+	
+	body {
+		background-color: #830E07;
+	}
+
+	article {
+		margin: 20px 40px;
+		background-color: white;
+	}
+
+	h2 {
+		background-color: black;
+		color: white;
+	}
+
+	p {
+		color: #830E07;
+		font-size: 14px;
+		text-decoration: underline;
+	}
+
+	li {
+		font-family: Helvetica, Arial, sans;
+		display: inline;
+	}
+
+	a {
+		color: rgb(200,120,120);
+		text-decoration: none;
+	}
+
+	ul {
+		list-style: none;
+	}
+	
+</style>

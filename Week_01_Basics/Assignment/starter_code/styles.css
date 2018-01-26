@@ -1,0 +1,43 @@
+body {
+	background: #F6F6F6;
+	color: #05080C;
+	font-size: 18px;
+	line-height: 1.5;
+	border-top: 5px solid #222222;
+	border-bottom: 5px solid #222222;
+	padding: 20px;
+}
+
+p {
+	font-family: Georgia, Times, serif;
+}
+
+img {
+	float: right;
+	margin-left: 10px;
+}
+
+th {
+	background-color: #222222;
+	color: white;
+	padding: 10px;
+}
+
+td {
+	background-color: #eeeeee;
+	padding: 10px;
+}
+
+h2 {
+	border-top: 1px solid #e9e9e9;
+	padding-top: 20px;
+}
+
+.tableHeading {
+	font-family: Arial, serif;
+	font-weight: bold;
+}
+
+.tableEntry {
+	font-family: Arial, serif;
+}

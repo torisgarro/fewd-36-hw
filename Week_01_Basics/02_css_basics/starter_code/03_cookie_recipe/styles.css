@@ -1,0 +1,41 @@
+body {
+	background-color: #FFE;
+	border: 3px solid black;
+	padding: 30px;
+}
+
+h1 {
+	font-family: Georgia, serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+h3 {
+	color: #887;
+	font-family: sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+p {
+	font-family: Georgia, serif;
+	font-size: 1em;
+}
+
+a {
+	color: #900;
+}
+
+span {
+	font-weight: bold;
+}
+
+img {
+	border: 3px solid black;
+}
